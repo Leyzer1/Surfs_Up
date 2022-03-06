@@ -5,23 +5,21 @@ In this challenge we are helping W. Avy analyze weather data, which will help th
 
 # Resuts
 
-* June Temperatures
-
 ![June Temps](https://user-images.githubusercontent.com/95899763/156933431-88ce2564-bd36-4fb0-83f0-789f3aa1a5df.PNG)
 
-For June's temperatures we were able to analyze 1700 data points. From the those data points we found that the average temperature is 74.9 degrees fahrenheit. The lowest temperature is 64 degress fahrenheit and the highest is 85 degrees farenheit. 
+* For June's temperatures we were able to analyze 1700 data points. From the those data points we found that the average temperature is 74.9 degrees fahrenheit. The lowest temperature is 64 degress fahrenheit and the highest is 85 degrees farenheit. 
 
 ![June Percipitation](https://user-images.githubusercontent.com/95899763/156933465-2a4332d9-6100-47d1-8329-89f04383628e.PNG)
 
-Lookign at June's percipitation data we were able to analyze 1574 data poitns. From this data we found thata the average percipation is 0.136360 inches of rain. The minimum percipiattion in June is 0 inches with a max of 4.43 inches of rain. 
+* Lookign at June's percipitation data we were able to analyze 1574 data poitns. From this data we found thata the average percipation is 0.136360 inches of rain. The minimum percipiattion in June is 0 inches with a max of 4.43 inches of rain. 
 
 ![December Temps](https://user-images.githubusercontent.com/95899763/156933451-8751281c-45e2-4d6a-b648-b871ce6a7d19.PNG)
 
-For December's temperatures we were able to analyze 1517 data points. From the those data points we found that the average temperature is 71 degress fahrenheit. The lowest temperature is 56 degrees fahrenheit and the highest is 83 degrees farenheit. 
+* For December's temperatures we were able to analyze 1517 data points. From the those data points we found that the average temperature is 71 degress fahrenheit. The lowest temperature is 56 degrees fahrenheit and the highest is 83 degrees farenheit. 
 
 ![December Percipitation](https://user-images.githubusercontent.com/95899763/156933472-a6b20159-eaa6-4164-a28c-7cb89a90f98a.PNG)
 
-Lookign at Decembers's percipitation data we were able to analyze 1405 data poitns. From this data we found thata the average percipation is 0.216819 inches of rain. The minimum percipiattion in December is 0 inches with a max of 6.42 inches of rain. 
+* Lookign at Decembers's percipitation data we were able to analyze 1405 data poitns. From this data we found thata the average percipation is 0.216819 inches of rain. The minimum percipiattion in December is 0 inches with a max of 6.42 inches of rain. 
 
 # Summary
 
